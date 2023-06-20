@@ -3,18 +3,18 @@ VERSION:3.0
 N:Raj;Chaithanya;;;
 FN:Chaithanya Raj
 ORG:Ecocee
-ADR;TYPE=WORK:Ecocee-EcoCard , Maliyankara,Pravour,Kerala-683516
-TITLE:Co-founder
-TEL;TYPE=CELL:8129915710
+ADR;TYPE=WORK:
+TITLE:Co-Founder 
+TEL;TYPE=CELL:+918129915710
 TEL;TYPE=WORK:
-TEL;TYPE=HOME:
-TEL;TYPE=MSG:8129915710
+TEL;TYPE=HOME:+918129915710
+TEL;TYPE=MSG:+918129915710
 EMAIL;TYPE=WORK:
-URL;TYPE=Digital Business Card:https://cyberkutti-iedc.github.io/chaithanyaraj
+URL;TYPE=Digital Business Card:
 URL:
 URL;TYPE=WhatsApp:https://wa.me/8129915710
 URL;TYPE=Instagram:https://instagram.com/chaithanyaraj_chaitu
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:
-UID:EnBizCard-100728523
+NOTE:Digital Networking
+UID:EnBizCard-100284317
 END:VCARD
